@@ -1,6 +1,6 @@
 package com.saeyan.dto;
 
-public class MemberVo {
+public class MemberVO {
 	private String name;
 	private String userid;
 	private String pwd;

@@ -7,3 +7,7 @@ phone char(13),
 admin number(1) DEFAULT 0,
 PRIMARY Key(userid)
 );
+
+INSERT INTO MEMBER VALUEs ('이소미','somi','1234','gmd@naver.com','010-1234-1234',0);
+
+SELECT  * FROM "MEMBER" 
